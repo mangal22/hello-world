@@ -1,3 +1,3 @@
 # hello-world
-Getting stated with github
+Started and also completed first project
 I'm new to GitHub, Practicing basics.
